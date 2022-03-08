@@ -35,8 +35,8 @@ ABOUT_TEXT = """**About Me**
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('Channel', url='https://telegram.me/FayasNoushad'),
-            InlineKeyboardButton('Feedback', url='https://telegram.me/TheFayas')
+            InlineKeyboardButton('Channel', url='https://telegram.me/YourX'),
+            InlineKeyboardButton('Feedback', url='https://telegram.me/XfeedbackBot')
         ],
         [
             InlineKeyboardButton('Help', callback_data='help'),
