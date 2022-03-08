@@ -27,9 +27,9 @@ Made by @FayasNoushad"""
 ABOUT_TEXT = """**About Me**
 
 - **Bot :** `Backround Remover Bot`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
-- **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Remove-BG-Bot/tree/main)
+- **Creator :** [YourX](https://telegram.me/YourX)
+- **Channel :** [User](https://telegram.me/Miuiuser)
+- **Source :** [Click here](https://github.com/PornQuto/Remove-BG-Bot/tree/main)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)"""
 START_BUTTONS = InlineKeyboardMarkup(
